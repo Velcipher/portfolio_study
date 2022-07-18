@@ -48,6 +48,7 @@ p {
        .main-link {
         display: block;
         margin: 0;
+        width: 70px;
        }
    }
 
