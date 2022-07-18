@@ -81,7 +81,7 @@ p {
     display: flex;
     justify-content: center;
     font-size: 28px;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 .email-link:hover {
