@@ -81,7 +81,7 @@ p {
     display: flex;
     flex-direction: row;
     font-size: 18px;
-    margin: 30px auto 30px auto;
+    margin: 30px 10px 30px 10px;
 }
 
 .email-link {
