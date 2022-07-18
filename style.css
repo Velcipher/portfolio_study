@@ -46,6 +46,7 @@ p {
            font-size: 30px;
        }
        .main-link {
+        display: block;
         margin: 0;
        }
    }
