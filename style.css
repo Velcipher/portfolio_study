@@ -55,7 +55,7 @@ p {
             width: 115px;
         }
         .email-link {
-            font-size: 18px;
+            font-size: 18px !important;
         }
    }
 
