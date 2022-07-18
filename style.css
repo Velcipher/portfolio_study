@@ -46,10 +46,17 @@ p {
            font-size: 30px;
        }
        .main-link {
-    display: inline-block;
-       text-align: center;
+        display: block;
+        text-align: center;
+        margin: 0 auto;
+        width: 180px;
+        }
+        .main-link#contactMe {
+            width: 115px;
+        }
    }
-   }
+
+
 .text-center {
     text-align: center;
 }
