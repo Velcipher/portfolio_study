@@ -241,3 +241,7 @@ li {
     margin: 0 auto;
     width: 180px;
 }
+#submit {
+    background: #fff;
+    color: #02c88c;
+}
