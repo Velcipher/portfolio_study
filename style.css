@@ -141,6 +141,9 @@ p {
     border: 1px solid var(--primary-color);
 
 }
+.secondary-link:hover {
+    color: #000;
+}
 
 .container {
     width: 100%;
