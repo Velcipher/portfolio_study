@@ -45,6 +45,9 @@ p {
        #name {
            font-size: 30px;
        }
+       .main-link {
+        margin: 0;
+       }
    }
 
 .text-center {
