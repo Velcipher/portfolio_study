@@ -25,12 +25,13 @@ h1 {
 
 h2 {
     font-size: 48px;
-    margin-top: 83px;
+    margin-top: 100px;
 }
 
 h3 {
     font-size: 24px;
-    margin: 0;
+    margin: 30px 0 30px 0;
+    z-index:-1;
 }
 h4 {
     font-size: 20px;
@@ -43,7 +44,7 @@ p {
     border-radius: 18px;
     line-height: 1.5;
     text-align: center;
-    text-align: left;
+    
 
 }
    @media (max-width: 765px) {
@@ -68,6 +69,9 @@ p {
         }
         .email-link {
             font-size: 18px !important;
+        }
+        .contact-links {
+            font-size: 12px;
         }
    }
 
@@ -171,7 +175,7 @@ p {
 }
 
 .navbar {
-    margin-top: -83px;
+    margin-top: -100px;
 }
 
 .navbar-toggler {
@@ -200,4 +204,31 @@ li {
 
 .work-links img {
     width: 30px;
+}
+#public-links {
+   position: relative;
+   justify-content: flex-start;
+   z-index: 0;
+}
+#public-links h3{
+    font-size: 24px;
+    margin: 0;
+    z-index: -1;
+}
+.text-git {
+    text-align: center;
+    margin-bottom: 40px;
+}
+#form {
+    background: #60efc3;
+    box-shadow:0px 5px 10px 2px #000;
+}
+#greeting {
+    margin-bottom: 70px;
+      font-size: 48px;
+     
+}
+.meImg {
+    width: 100%;
+    height: auto;
 }
